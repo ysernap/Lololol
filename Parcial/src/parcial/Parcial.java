@@ -20,6 +20,9 @@ public class Parcial {
             if(i%2==0){
                 System.out.println(i);
             }
+            else{
+                System.out.println("Esta mierda no sirve");
+            }
         }    
     }
 }
